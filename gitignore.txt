@@ -1,0 +1,9 @@
+/AED_FINAL_PROJECT/build/
+/AED_FINAL_PROJECT/nbproject/private/
+/AED_Final_Project/.DS_Store/
+.DS_Store
+AED_FINAL_PROJECT/.DS_Store
+AED_FINAL_PROJECT/nbproject/private/private.properties
+AED_FINAL_PROJECT/nbproject/project.properties
+AED_FINAL_PROJECT/src/.DS_Store
+
